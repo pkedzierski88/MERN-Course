@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://piotrek:piotrek@devconnector.pjrav.mongodb.net/DevConnector?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}
